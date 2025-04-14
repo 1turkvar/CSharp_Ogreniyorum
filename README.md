@@ -13,7 +13,9 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 ## 📚 İçerik
 | Tarih | Konu | Açıklama |
 |------|------|----------|
-| 13.04.2025 | 1- Değişkenler ve Veri Tipleri | Örnek Proje Yok |
+| 13.04.2025 | Değişkenler ve Veri Tipleri | Örnek Proje Yok |
+| 14.04.2025 | Operatörler | Örnek Proje Yok |
+| 14.04.2025 | Kontrol Yapıları | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
