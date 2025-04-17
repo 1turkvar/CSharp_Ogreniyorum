@@ -18,6 +18,8 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 14.04.2025 | Kontrol Yapıları | Örnek Proje Yok |
 | 15.04.2025 | Diziler ve Koleksiyonlar | Örnek Proje Yok |
 | 16.04.2025 | Sınıflar ve Nesneler | Örnek Proje Yok |
+| 17.04.2025 | Metotlar | Örnek Proje Yok |
+| 17.04.2025 | Kalıtım (Inheritance) | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
