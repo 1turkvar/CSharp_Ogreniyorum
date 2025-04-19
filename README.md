@@ -20,6 +20,11 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 16.04.2025 | Sınıflar ve Nesneler | Örnek Proje Yok |
 | 17.04.2025 | Metotlar | Örnek Proje Yok |
 | 17.04.2025 | Kalıtım (Inheritance) | Örnek Proje Yok |
+| 18.04.2025 | Abstraction (Soyutlama) | Örnek Proje Yok |
+| 18.04.2025 | Encapsulation (Kapsülleme) | Örnek Proje Yok |
+| 18.04.2025 | Polymorphism (Çok Biçimlilik) | Örnek Proje Yok |
+| 19.04.2025 | Generics | Örnek Proje Yok |
+| 19.04.2025 | Delegates ve Events | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
