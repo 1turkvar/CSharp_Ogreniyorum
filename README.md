@@ -25,6 +25,7 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 18.04.2025 | Polymorphism (Çok Biçimlilik) | Örnek Proje Yok |
 | 19.04.2025 | Generics | Örnek Proje Yok |
 | 19.04.2025 | Delegates ve Events | Örnek Proje Yok |
+| 20.04.2025 | Lambda Expressions ve LINQ | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
