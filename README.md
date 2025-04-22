@@ -26,6 +26,9 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 19.04.2025 | Generics | Örnek Proje Yok |
 | 19.04.2025 | Delegates ve Events | Örnek Proje Yok |
 | 20.04.2025 | Lambda Expressions ve LINQ | Örnek Proje Yok |
+| 22.04.2025 | AsyncAwait Pattern | Örnek Proje Yok |
+| 22.04.2025 | Attribute'lar ve Reflection | Örnek Proje Yok |
+| 22.04.2025 | Extension Methods | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
