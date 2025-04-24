@@ -30,6 +30,9 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 22.04.2025 | Attribute'lar ve Reflection | Örnek Proje Yok |
 | 22.04.2025 | Extension Methods | Örnek Proje Yok |
 | 23.04.2025 | Modern C# Özelliklerinden bazıları | Örnek Proje Yok |
+| 24.04.2025 | Diziler ve Listeler | Örnek Proje Yok |
+| 24.04.2025 | Koleksiyonlar | Örnek Proje Yok |
+| 24.04.2025 | Sıralama Algoritmaları | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
