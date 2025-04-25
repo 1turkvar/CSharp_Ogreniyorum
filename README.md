@@ -33,6 +33,7 @@ Bu repo, C# öğrenme sürecimi belgelediğim bir çalışma günlüğüdür. He
 | 24.04.2025 | Diziler ve Listeler | Örnek Proje Yok |
 | 24.04.2025 | Koleksiyonlar | Örnek Proje Yok |
 | 24.04.2025 | Sıralama Algoritmaları | Örnek Proje Yok |
+| 25.04.2025 | Arama Algoritmaları | Örnek Proje Yok |
 | ... | ... | ... |
 
 ## 📂 Klasör Yapısı
